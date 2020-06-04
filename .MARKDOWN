@@ -1,0 +1,3 @@
+# TIMER  
+### INTRODUCCION TIMERS
+El STM32 incorpora múltiples timers que proporcionan recursos de temporización para tareas de software o hardware. Las tareas de software consisten principalmente en proporcionar bases de tiempo, generación de eventos de tiempo de espera y disparadores de tiempo. Las tareas de hardware están relacionadas con las I /O S: los timers pueden generar formas de onda en sus salidas, medir los parámetros de la señal entrante y reaccionar a eventos externos en sus entradas.
